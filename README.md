@@ -26,6 +26,7 @@ Una galería responsiva de imágenes con Bootstrap. Presenta tarjetas con imáge
 
 Si deseas contactarme, puedes escribirme a:  
 📧 4ngel4.becerr4@gmail.com
+
 📱 WhatsApp 3132877912
 
 
