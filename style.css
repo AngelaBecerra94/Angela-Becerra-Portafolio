@@ -23,3 +23,6 @@ body {
   height: 200px;
   object-fit: cover;
 }
+#inicio, #proyectos, #contacto {
+  scroll-margin-top: 80px;
+}

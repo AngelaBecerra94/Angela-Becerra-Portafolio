@@ -9,7 +9,7 @@ Soy una profesional en transición hacia el mundo del análisis de datos y el de
 
 ## 🚀 Proyectos destacados
 
-### 🌿 [DecoPlants](https://angelabecerra94.github.io/DecoPlants-/)
+### 🌿 [DecoPlants](https://angelabecerra94.github.io/DecoPlants/)
 Una página sencilla y visual para exhibir plantas decorativas. Utilicé HTML y CSS para practicar estilos, maquetación y el uso de imágenes como catálogo.
 
 ### 🐶 [Galería de Perros](https://angelabecerra94.github.io/Galeria-de-perros/)
